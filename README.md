@@ -18,9 +18,16 @@ This project contains an automation script for Instagram that logs into multiple
 Before you begin, ensure you have met the following requirements:
 
 - **Java Development Kit (JDK)**: Installed on your local machine.
-- **Selenium WebDriver**: The Selenium Java bindings library.
+- **INSTALL  ECLIPSE LINK BELOW**:
+- ![image](https://github.com/user-attachments/assets/a5997072-1fe3-49cc-a6c0-ff2ab54c3dc0)
+- https://www.eclipse.org/downloads/
+
+- **Selenium WebDriver LINK BELOW**: The Selenium Java bindings library.
+- ![image](https://github.com/user-attachments/assets/e4c8b712-6714-40c5-9fc8-e11c03dc52e5)
+- https://www.eclipse.org/downloads/
+
 - **ChromeDriver**: The Chrome browser driver for Selenium WebDriver.
-- **Maven**: For managing project dependencies (optional).
+
 
 ## Installation
 
