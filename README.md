@@ -24,7 +24,4 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/instagram-automation.git
-   cd instagram-automation
+1. DONT WORRY ABOUT  I  HAVE  EXPLAINED  EVERY THING  WITH  IN  THE  CODE   IN  COMMENT  LINES  FOLLOW  THE  PROCESS
