@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 - **Selenium WebDriver LINK BELOW**: The Selenium Java bindings library.
 - ![image](https://github.com/user-attachments/assets/5ca91ba8-5547-445a-8a39-9af291933aa8)
 
-- https://www.eclipse.org/downloads/
+- [https://www.eclipse.org/downloads/](https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.27.0/selenium-server-4.27.0.jar)
 
 - **ChromeDriver**: The Chrome browser driver for Selenium WebDriver.
 
